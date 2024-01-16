@@ -11,12 +11,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DudaZT&show_icons=true&count_private=true&hide_border=true&title_color=836FFF&icon_color=836FFF&text_color=c9d1d9&bg_color=0d1117" alt="Maria Eduarda github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudaZT&layout=compact&hide_border=true&title_color=836FFF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-
-<br><br><br><br>
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DudaZT&theme=radical&mode=weekly" />
-</div>
  
  &nbsp;
  &nbsp;
