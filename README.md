@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Maria+Eduarda;Tenho+22+anos+;Sou+formada+em+Técnico+de+Informática;Cursando+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
-<br><br>
-
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Sou apaixonada por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Hoje, sou uma desenvolvedora full stack de nível médio focado em desenvolvimento web.</p>&nbsp;
@@ -18,8 +16,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DudaZT&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-DudaZT.vercel.app/api/top-langs/?username=DudaZT&show_icons=true&theme=radical&layout=compact" />
- </div>
+</div>
  
  &nbsp;
  &nbsp;
@@ -45,7 +42,7 @@
 ![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 ![VIRTUAL BOX](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)&nbsp;
 
-
+<br><br><br><br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 &nbsp;
