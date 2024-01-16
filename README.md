@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Maria+Eduarda;Tenho+22+anos+;Sou+formada+em+Técnico+de+Informática;Cursando+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
+<br><br>
+
+&nbsp;&nbsp;&nbsp;
+
+<p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Sou apaixonada por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Hoje, sou uma desenvolvedora full stack de nível médio focado em desenvolvimento web.</p>&nbsp;
 <br><br><br><br>
 
 <div align="center">  
@@ -9,23 +14,19 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudaZT&layout=compact&hide_border=true&title_color=836FFF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Sou apaixonada por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Hoje, sou uma desenvolvedora full stack de nível médio focado em desenvolvimento web.</p>&nbsp;
+<br><br><br><br>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DudaZT&theme=radical&mode=weekly" />
-<!-- <img width=40% align="center" src="https://github-readme-stats-git-main-DudaZT.vercel.app/api/top-langs/?username=DudaZT&show_icons=true&theme=radical&layout=compact" /> -->
+<img width=40% align="center" src="https://github-readme-stats-git-main-DudaZT.vercel.app/api/top-langs/?username=DudaZT&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
  &nbsp;
 
-
+<br><br><br><br>
 
 ## My Skills
-
-#### Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
