@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Eu 💜 resolver grandes desafios usando tecnologia. <br><br> Sou apaixonada por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Fique a vontade para entrar em contato! 😉</p>&nbsp;
+<p align="center">Eu 💜 resolver grandes desafios usando tecnologia. <br><br> Sou apaixonada por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Fique à vontade para entrar em contato! 😉</p>&nbsp;
 <br><br><br><br>
 
 <div align="center">  
